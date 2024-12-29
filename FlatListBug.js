@@ -1,0 +1,1 @@
+This bug occurs when using the FlatList component in React Native with a large dataset.  The performance can become very slow, especially when scrolling, and can lead to dropped frames or even crashes.  This is often due to inefficient rendering of list items or excessive re-renders.
